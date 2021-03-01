@@ -1,0 +1,26 @@
+.header {
+  width: 1366px;
+  height: 68px;
+  background-color: #dbe2bf;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+.concrete-logo {
+    width: 60px;
+    padding: 4px;
+    display: block;
+  img {
+    width: 100%;
+  }
+}
+
+.user-icon {
+  background: url('../../images/5700c04197ee9a4372a35ef16eb78f4e') no-repeat;
+  background-size: 25px;
+  height: 25px;
+  width: 25px;
+  margin-left: auto;
+  margin-right: 40px;
+}

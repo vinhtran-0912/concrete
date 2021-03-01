@@ -1,0 +1,27 @@
+.sidebar-menu {
+  width: 208px;
+  height: 700px;
+  background-color: #ffffff;
+  padding: 70px 20px 0 20px;
+  ul {
+    list-style: none;
+  }
+  li {
+    text-decoration: none;
+    a {
+      color: #000000;
+      display: block;
+      text-decoration: none;
+      padding: 20px 0 20px 40px;
+      border-radius: 5px;
+      font-family: "Helvetica Neue";
+    }
+  }
+}
+
+.active-side-bar {
+  width: 171px;
+  height: 57px;
+  border-radius: 5px;
+  background-color: #55642c;
+}

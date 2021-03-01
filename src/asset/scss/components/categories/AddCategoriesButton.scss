@@ -1,0 +1,35 @@
+.add-new-title {
+  font-size: 30px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.input-group {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  span {
+    width: 120px;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+  }
+
+  input {
+    width: 339px;
+    height: 40px;
+    background-color: #f0f4e4;
+    border: 1px solid #55642c;
+  }
+}
+
+.edit-btn {
+  display: flex;
+  padding: 10px 0;
+  button {
+    width: 120px;
+    height: 40px;
+    background-color: #55642c;
+    margin: 0 auto;
+  }
+}
